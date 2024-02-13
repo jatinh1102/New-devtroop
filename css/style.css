@@ -2010,6 +2010,7 @@ ul {
 .main-hero-bg {
   background: url("../img/white_banner_bg.webp");
   background-position: center;
+  background-size: cover;
   margin-bottom: 30px;
   margin-top: -78px;
   padding: 100px;
