@@ -2008,7 +2008,7 @@ ul {
 }
 
 .main-hero-bg {
-/*  background: url("../img/white_banner_bg.webp");*/
+  background: url("../img/white_banner_bg.webp");
   background-position: center;
   margin-bottom: 30px;
   margin-top: -78px;
