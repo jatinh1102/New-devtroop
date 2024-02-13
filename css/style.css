@@ -375,7 +375,7 @@ hr {
 }
 
 .service-card {
-  background: url(../img/white_banner_bg.png);
+  background: url(../img/white_banner_bg.webp);
   box-shadow: 0px 3px 15px #edebf6;
   border-radius: 6px;
   border: none;
@@ -631,7 +631,7 @@ hr {
 .news-letter-from .news-letter-box {
   padding: 100px 15px;
   position: relative;
-  background: url(../img/white_banner_bg.png);
+  background: url(../img/white_banner_bg.webp);
   box-shadow: 0px 0px 60px #d1cdcd;
   border-radius: 6px;
   background-position: center;
@@ -911,7 +911,7 @@ hr {
 }
 
 .service-explor-card {
-  background: url(../img/white_banner_bg.png);
+  background: url(../img/white_banner_bg.webp);
   box-shadow: 0px 3px 15px #edebf6;
   border-radius: 6px;
   border: none;
@@ -1562,7 +1562,7 @@ ul {
 .form-filed {
   border-radius: 10px;
   padding: 30px 16px;
-  background: url(../img/white_banner_bg.png);
+  background: url(../img/white_banner_bg.webp);
   box-shadow: 0px 3px 15px #edebf6;
   border-radius: 6px;
   background-position: bottom;
@@ -2008,7 +2008,7 @@ ul {
 }
 
 .main-hero-bg {
-  background: url("../img/white_banner_bg.png");
+  background: url("../img/white_banner_bg.webp");
   background-position: center;
   margin-bottom: 30px;
   margin-top: -78px;
@@ -2027,7 +2027,7 @@ ul {
 }
 
 .hero-bg {
-  background: url("../img/white_banner_bg.png");
+  background: url("../img/white_banner_bg.webp");
   background-position: center;
   margin-bottom: 30px;
   margin-top: -78px;
