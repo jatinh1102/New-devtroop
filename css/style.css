@@ -510,7 +510,14 @@ hr {
 .Our-Latest-Blog {
   margin-bottom: 30px;
 }
-
+.latest-blog .card-title{
+  font-size: 20px;
+  font-weight: 500;
+}
+.about-box {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
 .news-letter-from {
   margin: 100px 0;
 }
@@ -1746,6 +1753,7 @@ ul {
   color: #ffffff;
   margin-bottom: 15px;
   font-weight: 600;
+  font-size: 20px;
 }
 
 .courses-link-list {
