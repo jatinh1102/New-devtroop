@@ -44,8 +44,7 @@ textarea:focus {
 }
 
 .card-text {
-    color: #333; /* Adjust text color as needed */
-    background-color: #fff; /* Adjust background color as needed */
+    background-color: #faf8f5;
 }
 
 
@@ -405,7 +404,7 @@ hr {
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
-  color: #505050;
+  color: #585959;
 }
 
 .service-card-round {
