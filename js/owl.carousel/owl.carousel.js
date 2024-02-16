@@ -1778,7 +1778,7 @@
             )),
           c.dotsData ||
             (this._templates = [
-              a('<button role="button">')
+              a('<button role="button" aria-label="owl-Button" title="owl-Button">')
                 .addClass(c.dotClass)
                 .append(a("<span>"))
                 .prop("outerHTML"),
