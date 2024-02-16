@@ -455,7 +455,7 @@ hr {
   display: grid;
   align-items: center;
 }
-.development-process h5 {
+.development-process p {
   font-family: var(--bs-btn-font-family-Roboto);
   font-style: normal;
   font-weight: 400;
