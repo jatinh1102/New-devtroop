@@ -403,8 +403,8 @@ hr {
   font-family: var(--bs-btn-font-family-Roboto);
   font-style: normal;
   font-weight: 400;
-  font-size: 17px;
-  color: #250202;
+  font-size: 15px;
+  color: #505050;
 }
 
 .service-card-round {
